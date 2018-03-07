@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Score keeper</string>
+    <string name="team">TEAM A</string>
+    <string name="team_a_score">0</string>
+    <string name="try_points">try</string>
+    <string name="conversion">conversion kick</string>
+    <string name="penalty">penalty kick</string>
+    <string name="teamB">team b</string>
+    <string name="bbb">team b</string>
+    <string name="reset">reset</string>
+    <string name="drop">drop goal</string>
+</resources>
+
+
+
